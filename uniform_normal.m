@@ -14,6 +14,7 @@
 % clearing the page and variables
 clear;
 clc;
+close all;
 %% Create samples
 num_bin = 100; % Number of bins to claculate histograms and entropy
 num_sample = 10000; % Number of samples 
